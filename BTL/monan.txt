@@ -1,0 +1,24 @@
+Lẩu gà|300000
+Lẩu bò|350000
+Lẩu thập cẩm|250000
+Lẩu sườn|250000
+Lẩu cá|200000
+Tôm chiên|70000
+Cá kho tộ|100000
+Bò sốt rượu vang|400000
+Thịt nướng|180000
+Mì cay|60000
+Vịt quay Bắc Kinh|250000	
+Salad rau củ|15000
+Salad cà chua dưa chuột|20000
+Kim chi|30000
+Ngô chiên|20000
+Khoai lang kén|25000
+Xúc xích, lạp xưởng|35000	
+Trà sữa|35000
+Nước ngọt|15000
+Nước ép|27000
+Cafe|30000
+Rượu vang|800000	
+
+
